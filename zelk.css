@@ -35,8 +35,8 @@
 .theme-dark {
   --accent-color: #d0b3f1;
   --background-1: ##1e1923;
-  --background-2: #25212b;
-  --background-accent: #25212b;
+  --background-2: #1a171e;
+  --background-accent: #1a171e;
   --border-color: #2d2931;
 }
 /*-------------LIGHT MODE------------*/
@@ -68,7 +68,7 @@
   /* text */
   --text-normal: #ffffff;
   --text-positive: var(--text-normal);
-  --text-muted: #816d97;
+  --text-muted: #dfdfdf;
   --text-link: #7300ff;
   --interactive-selected: var(--background-primary);
   --interactive-active: var(--text-normal);
