@@ -69,7 +69,7 @@
   --text-normal: #ffffff;
   --text-positive: var(--text-normal);
   --text-muted: #816d97;
-  --text-link: #f4ebff;
+  --text-link: #7300ff;
   --interactive-selected: var(--background-primary);
   --interactive-active: var(--text-normal);
   --interactive-normal: var(--text-normal);
