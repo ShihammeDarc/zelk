@@ -52,11 +52,11 @@
   /* background */
   --background-primary: var(--background-1);
   --background-primary-alt: var(--background-1);
-  --background-secondary: var(--background-1);
+  --background-secondary: var(--background-2);
   --background-secondary-alt: var(--background-1);
   --background-tertiary: var(--background-2);
   --background-accent-gradient: var(--background-2);
-  --background-floating: var(--background-2);
+  --background-floating: var(--background-1);
   --background-mentioned: #d0b3f110;
   --background-mentioned-hover: #d0b3f115;
   /* modifiers */
