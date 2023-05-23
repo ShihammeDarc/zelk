@@ -56,7 +56,7 @@
   --background-secondary-alt: var(--background-1);
   --background-tertiary: var(--background-2);
   --background-accent-gradient: var(--background-2);
-  --background-floating: var(--background-1);
+  --background-floating: var(--background-2);
   --background-mentioned: #d0b3f110;
   --background-mentioned-hover: #d0b3f115;
   /* modifiers */
