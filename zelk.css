@@ -34,9 +34,9 @@
 /*---------------BASIC---------------*/
 .theme-dark {
   --accent-color: #d0b3f1;
-  --background-1: ##1e1923;
-  --background-2: #1a171e;
-  --background-accent: #1a171e;
+  --background-1: #1e1923;
+  --background-2: #4c4354;
+  --background-accent: #4c4354;
   --border-color: #2d2931;
 }
 /*-------------LIGHT MODE------------*/
